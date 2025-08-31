@@ -1,0 +1,14 @@
+{
+  "db":
+  {
+    "db_uri": "mssql+pymssql://sa:password@db:1433/master"
+  },
+  "telegram_bot":
+  {
+    "api_id": "12398765",
+    "api_hash": "api_hash",
+    "api_token": "111222333:somerandomletters",
+    "phone_number": "+7991231212",
+    "bot_admins": ["987654321"]
+  }
+}
