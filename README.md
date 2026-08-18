@@ -12,6 +12,7 @@
 - [Мир и перемещение](docs/world.md)
 - [Персонаж и прогресс](docs/character.md)
 - [Предметы](docs/items.md)
+- [Оружие](docs/weapons.md)
 - [Боевая система](docs/combat.md)
 - [Экономика и ресурсы](docs/economy-resources.md)
 - [Неутверждённые идеи](docs/ideas.md)
