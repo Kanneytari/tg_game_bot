@@ -7,6 +7,7 @@
 - [Базовая концепция](docs/00-concept.md)
 - [Мир и перемещение](docs/world.md)
 - [Персонаж и прогресс](docs/character.md)
+- [Предметы](docs/items.md)
 - [Боевая система](docs/combat.md)
 - [Экономика и ресурсы](docs/economy-resources.md)
 - [Игровой цикл](docs/gameplay.md)
