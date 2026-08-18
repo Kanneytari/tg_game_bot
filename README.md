@@ -13,6 +13,7 @@
 - [Персонаж и прогресс](docs/character.md)
 - [Предметы](docs/items.md)
 - [Оружие](docs/weapons.md)
+- [Экипировка и броня](docs/equipment.md)
 - [Боевая система](docs/combat.md)
 - [Экономика и ресурсы](docs/economy-resources.md)
 
