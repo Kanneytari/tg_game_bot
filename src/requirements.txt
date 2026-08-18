@@ -1,9 +1,0 @@
-telethon==1.29.3
-python-ldap==3.4.3
-tenacity==8.2.2
-sqlmodel==0.0.16
-SQLAlchemy==2.0.29
-pymssql==2.2.11
-pydevd_pycharm==221.6008.17
-pandas==1.4.3
-numpy==1.21.0
